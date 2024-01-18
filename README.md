@@ -4,7 +4,7 @@ This script is following a lot of requests, it allows you to simply automate the
 
 # Step 1 - Create the CSR and Key certificate
 
-Download the script then edit follow your country, region etc...  from `openssl.cnf` and run `sslflare.sh`
+Download the script then edit follow your country, region etc... and run `bash startssl.sh`
 
 ## Step 2 - Send CSR to Cloudflare
  1. Copy the contents of the CSR file you just generated :
